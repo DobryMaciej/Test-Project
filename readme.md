@@ -6,4 +6,4 @@ Tekst jakiś
 Zajrzyj [tutaj](www.Dobry_Maciej.pl)
 
 ## Opis 
-Jakiś Opis czegoś - zmioana 
+Jakiś Opis czegoś - zmiana 
