@@ -3,4 +3,4 @@ Tekst jakiś
 
 ## podtytuł 
 
-Zajrzyj [tutaj] (www.Dobry_Maciej.pl)
+Zajrzyj [tutaj](www.Dobry_Maciej.pl)
